@@ -1,0 +1,11 @@
+#Aquest fitxer serveix per crear el modul, fer una descripcio 
+#i li especifiquem la versio del Drupal que nosaltres utilitzem.
+
+name: Creacio Taula
+type: module
+description: Creacio de una taula per un numero de files
+package: Custom
+core_version_requirement: 9.x
+
+
+
