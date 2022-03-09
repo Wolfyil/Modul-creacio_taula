@@ -14,6 +14,6 @@
 
 ***
 
-# Desmotracio del funcionament del modul: creacio_taula
+# Demostracio del funcionament del modul: creacio_taula
 
 [![Watch the video](https://img.youtube.com/vi/psJt5_qghy8/maxresdefault.jpg)](https://www.youtube.com/watch?v=psJt5_qghy8)
