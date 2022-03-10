@@ -3,7 +3,7 @@
 ***
 
 ## Nom del Grup: DanDavMax2
-## Integrants del Grup
+## Integrants del Grup:
 
 
 
